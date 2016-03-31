@@ -1,4 +1,4 @@
-setwd("C:/Users/Pawan/Desktop/stocks")
+setwd("C:/Users/Ishaan/Desktop/stocks")
 dat<-read.csv("annuallog.csv")
 library("vars")
 
