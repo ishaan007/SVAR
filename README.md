@@ -1,5 +1,9 @@
 # MonetaryPolicy-StructuralVARs-R
 
+*My research got published in DUJURI Vol4 ISSN 2395 - 2334.Follow the link to read the [Complete Paper](http://journals.du.ac.in/ugresearch/pdf-vol5/13.pdf)
+*For reviews or suggestions.You can open an issue or drop a mail at contact.ishaanarora@gmail.com
+
+##Abstract
 A wide variety of theoretical and empirical models have been employed to analyse the relationship between monetary policy and stock prices. These have provided some evidence to justify that monetary policy can impact asset prices and vice versa. We aim to analyse the interaction between monetary policy and asset prices in India, using structural VARs. This paper seeks to explore the extent of interdependence that exists between the asset price and monetary policy in India. A structural VAR model is employed in the study to understand the interdependence between monetary policy and stock prices.
 
 ##Data used:
